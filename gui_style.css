@@ -1,0 +1,66 @@
+/* Custom CSS for a clean chat interface */
+.stApp {
+    background-color: #f7f9fc;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Center and constrain content width */
+.css-1r6dn7w, .css-1dp5qg8 {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Chat bubble styling */
+.user-bubble, .bot-bubble {
+    padding: 12px 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    max-width: 80%;
+    word-wrap: break-word;
+    font-size: 16px;
+    line-height: 1.5;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.user-bubble {
+    background-color: #e0f2f1; /* Light Teal */
+    color: #004d40;
+    margin-left: auto;
+    border-bottom-right-radius: 4px;
+}
+
+.bot-bubble {
+    background-color: #ffffff; /* White/Light Grey */
+    color: #333;
+    margin-right: auto;
+    border: 1px solid #e0e0e0;
+    border-bottom-left-radius: 4px;
+}
+
+/* Header and Divider */
+h1 {
+    color: #00796b;
+    font-weight: 700;
+}
+
+hr {
+    border-top: 1px solid #b2dfdb;
+}
+
+/* Suggestion Buttons */
+.stButton>button {
+    background-color: #00a18e;
+    color: white;
+    border-radius: 25px;
+    padding: 8px 15px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    border: none;
+    transition: background-color 0.3s;
+    font-size: 14px;
+}
+
+.stButton>button:hover {
+    background-color: #00695c;
+}

@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "initial_greeting": "Hi, I'm here to help you with hypertension disease. Please ask related questions about it.",
+    "greeting": "Greetings dear, I'm here to help you with hypertension disease. Please ask your questions.",
+    "fallback": "I'm really sorry, I'm here to help you with hypertension.",
+    "unknown_input_response": "Sorry, I didn't understand that. Please ask a question about hypertension or choose from the suggestions below."
+  },
+  "triggers": {
+    "greetings": ["hi", "hello", "hey", "yo", "hola", "namaste"],
+    "help_words": ["help", "?", "support", "query", "issue", "problem"],
+    "keywords": ["hypertension", "bp", "blood pressure"]
+  },
+  "suggested_questions": [
+    "What is hypertension?",
+    "How can I reduce my blood pressure?",
+    "Can hypertension be cured?",
+    "What are symptoms of high BP?",
+    "Which foods should I avoid?"
+  ],
+  "tips": {
+    "diet_tips": [
+      "Drink plenty of water and reduce your salt intake.",
+      "Avoid processed foods and eat more fresh vegetables and fruits.",
+      "Limit caffeine and sugar intake.",
+      "Choose boiled or baked meals over fried options.",
+      "Use herbs and spices instead of salt for flavor."
+    ],
+    "daily_routine": [
+      "Wake up early and do light exercise or walking.",
+      "Eat a low-salt, high-fiber breakfast like oats or fruit.",
+      "Take medications at the same time daily.",
+      "Avoid stress triggers — take short breathing breaks during work.",
+      "Go to bed early for 7-9 hours of sleep."
+    ],
+    "general_health": [
+      "Exercise for at least 30 minutes most days of the week.",
+      "Monitor your blood pressure regularly at home.",
+      "Manage stress through yoga, meditation, or deep breathing.",
+      "Take your medications as prescribed, without skipping doses."
+    ]
+  },
+  "support_responses": [
+    "You're not alone. Many people manage hypertension and live healthy lives.",
+    "Great job staying informed — that's the first step toward control!",
+    "Remember, small daily changes make a big difference.",
+    "If you're ever unsure, talk to your doctor or a health professional."
+  ],
+  "faqs": {
+    "what is hypertension": "Hypertension, or high blood pressure, is a condition where the force of the blood against your artery walls is consistently too high.",
+    "what are symptoms of high blood pressure": "High blood pressure often has no noticeable symptoms, which is why it's called the 'silent killer'. Regular checkups are important.",
+    "how can I reduce my blood pressure": "You can lower blood pressure through a healthy diet, regular exercise, reducing salt, avoiding alcohol and tobacco, and managing stress.",
+    "can hypertension be cured": "Hypertension cannot be cured, but it can be managed effectively with lifestyle changes and medications.",
+    "what foods to avoid": "Avoid salty, fatty, and processed foods. Reduce red meat, sugary snacks, and caffeine."
+  },
+  "General Questions": {
+    "what causes hypertension": "Hypertension can be caused by genetics, obesity, lack of physical activity, high salt intake, stress, smoking, alcohol, or chronic conditions like diabetes and kidney disease.",
+    "is hypertension common": "Yes, hypertension is very common worldwide, especially among adults over the age of 40.",
+    "is high blood pressure serious": "Yes, if left untreated, it can lead to heart disease, stroke, kidney failure, and other serious health issues."
+  },
+  "Medication & Monitoring": {
+    "do I need medicine for hypertension": "Many people need medication along with lifestyle changes to control high blood pressure. Always follow your doctor’s advice.",
+    "how often should I check my blood pressure": "If diagnosed, check your blood pressure at least once a day or as recommended by your doctor.",
+    "can I stop taking BP medicine if I feel better": "No, never stop medication without consulting your doctor. Hypertension often has no symptoms."
+  },
+  "Diet & Lifestyle": {
+    "is coffee bad for high blood pressure": "Caffeine can temporarily raise blood pressure. It's best to limit coffee intake if you have hypertension.",
+    "is salt really that bad": "Yes, high salt intake can raise your blood pressure. Choose low-sodium alternatives and limit processed foods.",
+    "can I eat eggs with high blood pressure": "Eggs in moderation are fine. Choose boiled or poached instead of fried, and avoid adding salt."
+  },
+  "Exercise & Habits": {
+    "can exercise help reduce blood pressure": "Yes! Regular aerobic exercise like walking, cycling, or swimming helps lower and control blood pressure.",
+    "how much sleep do I need": "Aim for 7-9 hours of quality sleep per night. Poor sleep can raise blood pressure.",
+    "does stress cause high blood pressure": "Chronic stress may contribute to high blood pressure. Stress management is important for your health."
+  },
+  "Support & Lifestyle": {
+    "can I live a normal life with hypertension": "Absolutely! With proper management, most people with hypertension live full, active lives.",
+    "should I avoid traveling with high blood pressure": "Not necessarily. Just keep taking your meds, stay hydrated, and avoid stress or unhealthy food."
+  },
+  "Hypertension Relief": {
+    "how can I get relief from hypertension": "You can relieve hypertension by maintaining a healthy diet, exercising regularly, reducing salt, avoiding stress, quitting smoking, and taking prescribed medications.",
+    "what is the fastest way to lower blood pressure": "Deep breathing, resting in a quiet place, and drinking water can help temporarily. But long-term control requires consistent lifestyle changes and medication if needed.",
+    "what foods help lower blood pressure quickly": "Foods like bananas, leafy greens, beetroot, oats, garlic, and berries can help reduce blood pressure over time.",
+    "can drinking water reduce blood pressure": "Yes, staying hydrated helps regulate blood pressure, especially if dehydration is contributing to high BP.",
+    "is yoga helpful for hypertension": "Yes, yoga and meditation can help reduce stress and lower blood pressure when practiced regularly.",
+    "can walking reduce high blood pressure": "Yes, brisk walking for 30 minutes a day can significantly lower blood pressure over time.",
+    "how to reduce high blood pressure naturally": "Reduce salt, eat fresh vegetables and fruits, avoid alcohol and smoking, exercise, manage stress, and get enough sleep.",
+    "which home remedies work for hypertension": "Home remedies include garlic, hibiscus tea, flaxseed, and daily exercise. Always check with your doctor before trying new remedies.",
+    "can breathing exercises lower blood pressure": "Yes, slow deep breathing can activate relaxation responses and lower blood pressure.",
+    "how does sleep affect blood pressure": "Poor sleep increases stress and blood pressure. Aim for 7-9 hours of restful sleep every night."
+  },
+  "Doctor Advice": {
+    "when should I see a doctor for high blood pressure": "You should consult a doctor if your blood pressure stays consistently above 140/90 mmHg, or if you feel dizziness, headaches, chest pain, or vision problems.",
+    "what tests are done for hypertension": "Common tests include blood pressure measurement, blood tests, urine tests, ECG, and sometimes kidney or heart scans.",
+    "can hypertension damage my body": "Yes. Long-term hypertension can damage your heart, kidneys, eyes, and brain if not managed properly."
+  },
+  "Hypertension in Children": {
+    "can children have high blood pressure": "Yes, children can have hypertension, especially if they're overweight, have kidney problems, or a family history of high BP.",
+    "how to treat high blood pressure in children": "Treatment involves healthy eating, physical activity, limiting salt and screen time, and sometimes medications."
+  },
+  "Stress & Mental Health": {
+    "can stress cause high blood pressure": "Yes, chronic stress can raise your blood pressure over time.",
+    "how to control stress to manage blood pressure": "Try meditation, deep breathing, talking to a therapist, walking outdoors, or listening to calming music."
+  },
+  "BP Levels Explained": {
+    "what is a normal blood pressure range": "A normal range is usually around 120/80 mmHg. Above 140/90 mmHg is considered high.",
+    "what is considered stage 1 or stage 2 hypertension": "Stage 1 is 130-139/80-89 mmHg, and stage 2 is 140+/90+ mmHg. Talk to a doctor for proper diagnosis."
+  },
+  "Healthy Foods": {
+    "what are some BP-friendly meals": "Try oatmeal with bananas, baked salmon with spinach, or boiled eggs with avocado toast — all low in salt and high in nutrients.",
+    "what drinks are good for high blood pressure": "Try hibiscus tea, beetroot juice, and coconut water. Avoid sugary drinks and limit caffeine."
+  },
+  "Daily Routine Tips": [
+    "Wake up early and do light exercise or walking.",
+    "Eat a low-salt, high-fiber breakfast like oats or fruit.",
+    "Take medications at the same time daily.",
+    "Avoid stress triggers — take short breathing breaks during work.",
+    "Go to bed early for 7-9 hours of sleep."
+  ]
+}
