@@ -100,5 +100,3 @@ HeartWise-AI/
 Feel free to  fork in!!!
 ---
 
-Would you like me to make the **`requirements.txt`** and `.streamlit/secrets.toml` sample files too (so you can just push everything directly to GitHub)?
-```
